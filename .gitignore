@@ -1,0 +1,3 @@
+# Exclude tsc generated files
+dist/*.map
+dist
